@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697522987495",
+    "firebase_url": "https://mapsexamplemp-488ae-default-rtdb.firebaseio.com",
+    "project_id": "mapsexamplemp-488ae",
+    "storage_bucket": "mapsexamplemp-488ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697522987495:android:0cd6f0a3611cee6cbc9d42",
+        "android_client_info": {
+          "package_name": "com.polarinsdustries.mapsexamplemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697522987495-thafhihv86ejjint165p1jefj53j826n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qktr_MqfNf-mPAP9p_u2ISZRyoLiegg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697522987495-thafhihv86ejjint165p1jefj53j826n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
